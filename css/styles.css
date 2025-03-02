@@ -1,0 +1,30 @@
+.header{
+    height: 40vh;
+    width: 200vh;
+}
+#h1{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+button{
+    background-color: #fff;
+}
+#images{
+    display: flex;
+    flex-direction: row;
+}
+#laptop{
+    width: 50vh;
+    height: 30vh;
+}
+
+#Nairobi{
+    height: 30vh;
+    width: 140vh;
+}
